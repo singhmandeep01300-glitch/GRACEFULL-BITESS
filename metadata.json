@@ -1,0 +1,6 @@
+{
+  "name": "Graceful Bitess",
+  "description": "Premium handcrafted chocolates, luxury truffles, and bespoke gift hampers in Aligarh, Uttar Pradesh. A Little Bite of Happiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
